@@ -10,7 +10,7 @@ Hi there, I'm Daniel 👋
 ### 🔜 Current Projects
 - 🍷 Wine quality predictor via machine learning
 
-### 😃 Connect with me 
+### 📫 Connect with me 
 - danielzhou.nc@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dzhou05/)
 

@@ -2,7 +2,7 @@ Hi there, I'm Daniel 👋
 ==================================================================================================
 ### 👽 About Me
 - 📚 I'm a junior year computer science and commerce student at the University of British Columbia.
-- 🍊 I'm currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a student-led startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
+- 🍊 I'm currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a student-led startup that strives to combat food waste by upcycling   orange peels and turning them into sweet treats.
 - 🌱 Learning more about ROS and embedded software to fuel my Formula Racing interests.
 - 🎸 I love all things sports, art, food, and music (Blonde is a top 3 album). 
 - 💫 Fun Fact: I have a cologne collection with over 13 fragrances

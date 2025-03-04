@@ -8,7 +8,7 @@ Hi there, I'm Daniel 👋
 - 💫 Fun Fact: I have a cologne collection with over 13 fragrances
 
 ### 🔜 Current Projects
-- 🍷 Wine quality predictor via machine learning
+- 🍷 [Wine Quality Predictor](https://github.com/manggo-cd/WineQualityPredictor): Predict the quality of wine on the basis of given features in the public wine quality dataset. ML using Tensorflow and Python.
 
 ### 📫 Connect with me 
 - danielzhou.nc@gmail.com

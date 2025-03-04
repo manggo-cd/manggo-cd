@@ -1,11 +1,16 @@
 Hi there, I'm Daniel 👋
 ==================================================================================================
-### About Me
-- I'm a junior year computer science and commerce student at the University of British Columbia.
-- I'm currently a software engineer at Second Savour, a student-led startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
-- I love all things art and music; Big Frank Ocean fan. 
+### 👽 About Me
+- 📚 I'm a junior year computer science and commerce student at the University of British Columbia.
+- 🍊 I'm currently a software engineer at Second Savour, a student-led startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
+- 🌱 Learning more about ROS and embedded software to fuel my Formula Racing interests.
+- 🎸 I love all things sports, art, food, and music. Big Frank Ocean fan!
+- 💫 Fun Fact: I have a cologne collection with over 13 fragrances
 
-### Contacts
+### 🔜 Current Projects
+- 🍷 Wine quality predictor via machine learning
+
+### 😃 Connect with me 
 - danielzhou.nc@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dzhou05/)
 

@@ -35,6 +35,10 @@ Tech Stack
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-Snake Eating my Commits 🙀
-==================================================================================================
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fegicochen/fegicochen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manggo-cd/manggo-cd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manggo-cd/manggo-cd/output/github-snake.svg" />
+</picture>
 

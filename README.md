@@ -1,16 +1,15 @@
 Hi there, I'm Daniel 👋
 ==================================================================================================
-### 👽 About Me
-- 📚 I'm a junior year computer science and commerce student at the University of British Columbia.
-- 🍊 I'm currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a student-led startup that strives to combat food waste by upcycling   orange peels and turning them into sweet treats.
-- 🌱 Learning more about ROS and embedded software to fuel my Formula Racing interests.
-- 🎸 I love all things sports, art, food, and music (Blonde is a top 3 album). 
-- 💫 Fun Fact: I have a cologne collection with over 13 fragrances
+### About Me
+- I'm a junior year computer science and commerce student at the University of British Columbia.
+- I'm currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a student-led startup that strives to combat food waste by upcycling   orange peels and turning them into sweet treats.
+- Learning ROS and embedded software to fuel my Formula Racing interests.
+- Fun Fact: I have a cologne collection with over 13 fragrances
 
-### 🔜 Current Projects
-- 🍷 [Wine Quality Predictor](https://github.com/manggo-cd/WineQualityPredictor): Predict the quality of wine on the basis of given features in the public wine quality dataset. ML using Tensorflow and Python.
+### Current Projects
+- [Wine Quality Predictor](https://github.com/manggo-cd/WineQualityPredictor): Predict the quality of wine on the basis of given features in the public wine quality dataset. ML using Tensorflow and Python.
 
-### 📫 Connect with me 
+### Connect with me 
 - danielzhou.nc@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dzhou05/)
 

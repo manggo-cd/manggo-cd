@@ -1,13 +1,10 @@
-Hi there, I'm Daniel 👋
+I'm Daniel 👋
 ==================================================================================================
 ### About Me
-- I'm a junior year CS + Commerce student at the University of British Columbia.
-- I'm currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a startup that strives to combat food waste by upcycling   orange peels and turning them into sweet treats.
-- Learning Black-Scholes Model to create an option pricer.
-- Fun Fact: I have a cologne collection with over 13 fragrances
-
-### Current Projects
-- [Wine Quality Predictor](https://github.com/manggo-cd/WineQualityPredictor): Predict the quality of wine on the basis of given features in the public wine quality dataset. ML using Tensorflow and Python.
+⭐ I'm a junior year CS + Commerce student at the University of British Columbia.
+🍊 Currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
+📚 Currently learning Black-Scholes Model to create an option pricer.
+❤️‍🔥 Passionate about lifting, my electric guitar, nature hikes, and hanging with good people
 
 ### Connect with me 
 - danielzhou.nc@gmail.com

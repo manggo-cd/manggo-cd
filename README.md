@@ -1,4 +1,4 @@
-I'm Daniel 👋
+Hi, I'm Daniel 👋
 ==================================================================================================
 ### About Me
 - ⭐ I'm a second year CS + Masters of Management student at the University of British Columbia.

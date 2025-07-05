@@ -2,7 +2,7 @@ Hi, I'm Daniel 👋
 ==================================================================================================
 ### About Me
 - ⭐ I'm a second year CS + Masters of Management student at the University of British Columbia.
-- 🍊 Currently a software engineer @ [Second Savour](https://www.secondsavour.ca/), a startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
+- 🍊 Currently a software developer @ [Second Savour](https://www.secondsavour.ca/), a startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
 - 📚 Currently learning stochastic calculus and it's financial applications 
 - ❤️‍🔥 Passionate about lifting, playing electric guitar, and nature hikes
 

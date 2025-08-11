@@ -7,8 +7,8 @@ Hi, I'm Daniel 👋
 - ❤ Passionate about lifting, playing electric guitar, and nature hikes
 
 ### Connect with me 
-- danielzhou.nc@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/dzhou05/)
+- danielzhou.nc@gmail.com
 
 
 <!---

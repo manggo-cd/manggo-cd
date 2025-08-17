@@ -3,7 +3,7 @@ Hi, I'm Daniel 👋
 ### About Me
 - ⭐ I'm a second year CS + Masters of Management dual degree student at the University of British Columbia.
 - 🍊 Currently a software developer @ [Second Savour](https://www.secondsavour.ca/), a startup that strives to combat food waste by upcycling orange peels and turning them into sweet treats.
-- 📚 Currently working on creating a working [Nintendo NES emulator](https://github.com/manggo-cd/NES-Emulator) that is fully compatible with my own ROMs. 
+- 📚 Working on creating a working [Nintendo NES emulator](https://github.com/manggo-cd/NES-Emulator) that is fully compatible with my own ROMs. 
 - ❤ Passionate about lifting, playing electric guitar, and nature hikes
 
 ### Connect with me 

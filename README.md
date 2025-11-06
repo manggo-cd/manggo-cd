@@ -8,7 +8,7 @@ Hi, I'm Daniel 👋
 Currently working at:
 - Backend Engineer Intern @ [Suogogo](https://www.suogogo.com/)
 - Software developer @ [Second Savour](https://www.secondsavour.ca/) — Startup for sustainable treats
-- Software Developer @ [Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) — visual perception research tools
+- Software Developer @ [Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) — Visual perception research tools
 
 
 ### Connect with me 

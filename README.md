@@ -6,7 +6,7 @@ Hi, I'm Daniel 👋
 - ❤ Passionate about weight lifting, playing electric guitar, and urbex
 
 Currently working at:
-- Backend Engineer Intern @ [Suogogo](https://www.suogogo.com/)
+- Backend Engineer Intern @ [Suogogo Technologies](https://www.suogogo.com/)
 - Software Developer @ [Second Savour](https://www.secondsavour.ca/)
 - Software Developer @ [Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) 
 

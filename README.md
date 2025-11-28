@@ -2,8 +2,8 @@ Hi, I'm Daniel 👋
 ==================================================================================================
 ### About Me
 - ⭐ I'm a CS + Masters of Management dual degree student at the University of British Columbia.
-- 📚 Working on creating a working [Nintendo NES emulator](https://github.com/manggo-cd/NES-Emulator) that is fully compatible with my own ROMs. 
-- ❤ Passionate about weight lifting, playing electric guitar, and urbex
+- Learning more about trading-system design and low-latency architecture
+- Passionate about weight lifting, playing electric guitar, and urbex
 
 Currently working at:
 - Backend Engineer Intern @ [Suogogo Technologies](https://www.suogogo.com/)

@@ -1,7 +1,7 @@
 Hi, I'm Daniel 👋
 ==================================================================================================
 ### About Me
-- ⭐ I'm a CS + Masters of Management dual degree student at the University of British Columbia.
+- I'm a CS + Masters of Management dual degree student at the University of British Columbia.
 - Learning more about trading-system design and low-latency architecture
 - Passionate about weight lifting, playing electric guitar, and urbex
 

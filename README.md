@@ -14,9 +14,9 @@ Previously at:
 - Backend Engineer Intern @ [Suogogo Technologies](https://www.suogogo.com/)
 
 
-### Connect with me 
-- [LinkedIn](https://www.linkedin.com/in/dzhou05/)
-- danielzhou.nc@gmail.com
+## Connect with me 
+**[LinkedIn]**(https://www.linkedin.com/in/dzhou05/)
+**Email**: danielzhou.nc@gmail.com
   
 Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
 

@@ -15,8 +15,8 @@ Previously at:
 
 
 ## Connect with me 
-[LinkedIn](https://www.linkedin.com/in/dzhou05/)
-**Email**: danielzhou.nc@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/dzhou05/)
+- danielzhou.nc@gmail.com
   
 Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
 

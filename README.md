@@ -1,3 +1,4 @@
+<!---
 Hi, I'm Daniel 👋
 ==================================================================================================
 ### About Me
@@ -18,6 +19,23 @@ Previously at:
 - [LinkedIn](https://www.linkedin.com/in/dzhou05/)
 - danielzhou.nc@gmail.com
   
+Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
+-->
+
+## Hi, I'm Daniel! 👋
+I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. I've been learning more about trading-system design and low-latency architecture
+
+## Current Interests
+Exploring neural network architectures, optimization techniques, and deployment strategies to understand efficient model training and inference.
+
+## Tech Stack
+**Languages:** Java, Javascript, Python, TypeScript, C++, Go  
+**Frameworks/Tools:** React, Node.js, Spring Boot, Next.js, Docker, AWS, Redis, Postgres, Firebase, Linux, gRPC  
+
+## Connect With Me
+**LinkedIn:** https://linkedin.com/in/dzhou05  
+**Email:** danielzhou.nc@gmail.com  
+
 Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
 
 <!---

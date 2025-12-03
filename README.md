@@ -23,7 +23,7 @@ Thanks for stopping by! Happy to connect, work on projects, or talk about anythi
 -->
 
 ## Hi, I'm Daniel! 👋
-I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. I've been learning more about trading-system design and low-latency architecture
+I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. Recently I've been learning more about trading-system design and low-latency architecture.
 
 ## Current Interests
 Exploring neural network architectures, optimization techniques, and deployment strategies to understand efficient model training and inference.

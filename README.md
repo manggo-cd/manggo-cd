@@ -23,18 +23,15 @@ Thanks for stopping by! Happy to connect, work on projects, or talk about anythi
 -->
 
 ## Hi, I'm Daniel! 👋
-I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. Recently I've been learning more about trading-system design and low-latency architecture.
+I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. Recently I've been learning more about trading-system design and low-latency architecture. Self proclaimed critical thinker with resilient problem solver mindset.
 
-## Current Interests
-Exploring neural network architectures, optimization techniques, and deployment strategies to understand efficient model training and inference. I also really like proverbs and poetry.
-
-## Tech Stack
-**Languages:** Java, Javascript, Python, TypeScript, C++, Go  
-**Frameworks/Tools:** React, Node.js, Spring Boot, Next.js, Docker, AWS, Redis, Postgres, Firebase, Linux, gRPC  
+I'm a big believer that things always work out in the end.
+"When life gives you lemons, squeeze the lemons in your eyes and ask for more lemons"
 
 ## Connect With Me
 **LinkedIn:** https://linkedin.com/in/dzhou05  
-**Email:** danielzhou.nc@gmail.com  
+**Email:** danielzhou.nc@gmail.com
+Would be really happy if you checked out my site at: https://dan-cd.dev/
 
 Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
 

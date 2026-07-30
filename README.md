@@ -31,7 +31,6 @@ I'm a big believer that things always work out in the end.
 ## Connect With Me
 **LinkedIn:** https://linkedin.com/in/dzhou05  
 **Email:** danielzhou.nc@gmail.com
-**Personal Site:** https://dan-cd.dev/ 
 
 Thanks for stopping by! Happy to connect, work on projects, or talk about anything :)
 

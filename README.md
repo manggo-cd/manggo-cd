@@ -23,7 +23,7 @@ Thanks for stopping by! Happy to connect, work on projects, or talk about anythi
 -->
 
 ## Hi, I'm Daniel! 👋
-I'm a CS + Masters of Management dual degree student at the University of British Columbia. I'm passionate about weight lifting, playing electric guitar, and urbex. Recently I've been learning more about trading-system design and low-latency architecture. Self proclaimed critical thinker with resilient problem solver mindset.
+I'm a CS + Masters of Management dual degree student @ubc. I'm passionate about weight lifting, playing electric guitar, and urbex. Recently I've been learning more about trading-system design and low-latency architecture. Self proclaimed critical thinker with resilient problem solver mindset.
 
 I'm a big believer that things always work out in the end.
 "When life gives you lemons, squeeze the lemons in your eyes and ask for more lemons"

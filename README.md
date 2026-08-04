@@ -27,7 +27,6 @@ I'm a CS + Masters of Management dual degree student @ [The University of Britis
   Recently I've been learning more about trading-system design and low-latency architecture.
 
 I'm a big believer that things always work out in the end.
-"When life gives you lemons, squeeze the lemons in your eyes and ask for more lemons"
 
 ## Connect With Me
 **LinkedIn:** https://linkedin.com/in/dzhou05  

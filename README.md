@@ -23,7 +23,7 @@ Thanks for stopping by! Happy to connect, work on projects, or talk about anythi
 -->
 
 ## Hi, I'm Daniel! 👋
-I'm a CS + Masters of Management dual degree student @ [The University of British Columbia](https://www.ubc.ca/). I carry a passion and appreciation for many things in life
+I'm a CS + Masters of Management dual degree student @ [The University of British Columbia](https://www.ubc.ca/). I carry a passion and appreciation for many things in life.
   Recently I've been learning more about trading-system design and low-latency architecture.
 
 I'm a big believer that things always work out in the end.

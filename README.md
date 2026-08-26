@@ -26,7 +26,7 @@ I'm a big believer that things always work out in the end.
 - [Tesla](https://www.tesla.com/robotaxi) — Software Engineering Intern, Core Data Platform (Incoming Fall 2026)
 - [Snowflake](https://www.snowflake.com/en/product/features/native-apps/) — Software Engineering Intern, Native Applications Foundation (Summer 2026)
 - [Global Relay](https://www.globalrelay.com/products/archive-data-compliance/) — Software Engineering Intern, Data Pipelines A10 (Winter 2026)
-- [UBC Visual Cognition Lab](https://www.viscoglab.psych.ubc.ca/) — Software Developer (2025)
+- [UBC VCL](https://www.viscoglab.psych.ubc.ca/) — Software Developer (2025)
 
 ## Connect With Me
 **LinkedIn:** https://linkedin.com/in/dzhou05  
